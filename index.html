@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" content="Sanji's Skincare">
     <meta property="og:description" content="Check out Sanji's premium skincare products">
-    <meta property="og:image" content="https://media-hosting.imagekit.io/ea0cf245d99240e4/IMG_5851.jpeg">
+    <meta property="og:image" content="https://i.ibb.co/h1yX88ww/IMG-5851.jpg">
     <meta property="og:url" content="https://sanjisnest.gumroad.com/l/sanjiskincare">
     <meta name="twitter:card" content="summary_large_image">
     <title>Redirecting to Sanji's Skincare</title>
@@ -32,10 +32,12 @@
             max-height: 60vh;
             margin-bottom: 20px;
             border-radius: 8px;
+            object-fit: contain;
         }
         .message {
             font-size: 18px;
             margin-bottom: 20px;
+            text-align: center;
         }
         .spinner {
             border: 4px solid rgba(0, 0, 0, 0.1);
@@ -49,12 +51,18 @@
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
+        .fallback-link {
+            margin-top: 20px;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
-    <img src="https://media-hosting.imagekit.io/ea0cf245d99240e4/IMG_5851.jpeg" alt="Sanji's Skincare">
+    <img src="https://i.ibb.co/h1yX88ww/IMG-5851.jpg" alt="Sanji's Skincare">
     <div class="message">Redirecting to Sanji's Skincare Store...</div>
     <div class="spinner"></div>
-    <p>If you are not redirected automatically, <a href="https://sanjisnest.gumroad.com/l/sanjiskincare">click here</a>.</p>
+    <div class="fallback-link">
+        <p>If you are not redirected automatically, <a href="https://sanjisnest.gumroad.com/l/sanjiskincare">click here</a>.</p>
+    </div>
 </body>
 </html>
