@@ -8,10 +8,10 @@
   <title>Hot girls</title>
   <meta name="description" content="hot girls">
 
-  <!-- Open Graph Meta Tags for link preview -->
+  <!-- Open Graph Meta Tags -->
   <meta property="og:title" content="Hot girls">
   <meta property="og:description" content="hot girls">
-  <meta property="og:image" content="https://img.freepik.com/premium-photo/free-sexy-women-hot-girl-beautiful-model_1000823-234609.jpg">
+  <meta property="og:image" content="https://drive.google.com/uc?export=view&id=13UtODE47r5rfvZ0MVKCCZ83ROi4XJaZ1">
   <meta property="og:url" content="https://sanjisnest.gumroad.com/l/sanjiskincare">
   <meta property="og:type" content="website">
 </head>
